@@ -64,7 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Education
+  - title: **Education**
     layout: list
     content:
       - layout: left
@@ -86,7 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
 
-  - title: Project # Title for the section
+  - title: **Project** # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -109,7 +109,7 @@ content:
           - Gender diagnosis techniques in prehatching chickens through the image preprocessing for A.I.
           - 5 years protection under the non-disclosure agreement.
 
-  - title: Research Achievement
+  - title: **Research Achievement**
     layout: list
     content:
       - layout: left
@@ -142,7 +142,7 @@ content:
 
 
 
-  - title: A Little More About Me
+  - title: **A Little More About Me**
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
