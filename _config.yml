@@ -97,13 +97,13 @@ content:
       - layout: left
         title: Conference
         description: | # this will include new lines to allow paragraphs
-          - **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced scattering media removal by modified ARMS and restoration of color information,” 18th *International Conference on Machine Vision*, Paris, France, Oct. 2025 (Accepted).
-          - S. Song, **J. Jeong**, M. Cho, and M.-C. Lee, “Single Haze Removal Method using Peplography,” 18th *International Conference on Machine Vision*, Paris, France, Oct. 2025 (Accepted).
-          - **J. Jeong**, M. Cho, and M.-C. Lee, “Scattering media removal under the harsh conditions using adaptive removal via mask for scatter,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted)
-          - K. Nakamura, **J. Jeong**, M. Cho, and M.-C. Lee, “Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for Improve Noise Reduction,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted)
-          - S. Kim, **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced double random phase encryption for simultaneous two primary data,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted)
-          - T.Ono, **J.Jeong**, H.-W. Kim, M.Cho, and M.-C. Lee, "[Kalman filtering optimization in digital holographic microscopy (DHM)](https://doi.org/10.23919/ICCAS63016.2024.10773243)", 24th *International Conference on Control, Automation and Systems*, Jeju, Korea, Oct. 2024
-          - **J.Jeong**, H.-W Kim, M.Cho, and M.-C. Lee, "[A study of noise reduction algorithm using statistical optimization in digital holographic microscopy](https://doi.org/10.1109/JCSSE61278.2024.10613728)", 21st *International Joint Conference on Computer Science adn Software Engineering*, Phuket, Thailand, Jun. 2024
+          - **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced scattering media removal by modified ARMS and restoration of color information,” 18th *International Conference on Machine Vision*, Paris, France, Oct. 2025 (Accepted) (SPIE)
+          - S. Song, **J. Jeong**, M. Cho, and M.-C. Lee, “Single Haze Removal Method using Peplography,” 18th *International Conference on Machine Vision*, Paris, France, Oct. 2025 (Accepted) (SPIE)
+          - **J. Jeong**, M. Cho, and M.-C. Lee, “Scattering media removal under the harsh conditions using adaptive removal via mask for scatter,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted) (IEEE)
+          - K. Nakamura, **J. Jeong**, M. Cho, and M.-C. Lee, “Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for Improve Noise Reduction,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted) (IEEE)
+          - S. Kim, **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced double random phase encryption for simultaneous two primary data,” 40th *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted) (IEEE)
+          - T.Ono, **J.Jeong**, H.-W. Kim, M.Cho, and M.-C. Lee, "[Kalman filtering optimization in digital holographic microscopy (DHM)](https://doi.org/10.23919/ICCAS63016.2024.10773243)", 24th *International Conference on Control, Automation and Systems*, Jeju, Korea, Oct. 2024 (IEEE)
+          - **J.Jeong**, H.-W Kim, M.Cho, and M.-C. Lee, "[A study of noise reduction algorithm using statistical optimization in digital holographic microscopy](https://doi.org/10.1109/JCSSE61278.2024.10613728)", 21st *International Joint Conference on Computer Science adn Software Engineering*, Phuket, Thailand, Jun. 2024 (IEEE)
 
       - layout: left
         title: Patents
@@ -112,7 +112,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2024-214715)
-          * In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
+
+          In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
 
   - title: Education
     layout: list
