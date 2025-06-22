@@ -64,7 +64,29 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Kyushu Institute of Technology
+        sub_title: M.E. in Creative Informatics
+        caption: Apr. 2024 - Mar. 2026
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+        
+      - layout: left
+        title: Dong-A University
+        sub_title: B.E. in Electronics Engineering
+        caption: Mar. 2018 - Feb. 2024
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+          
+  - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,10 +103,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          5 years protection under non-disclosure agreement.
+        # quote: >
+        #   5 years protection under non-disclosure agreement.
         description: | # this will include new lines to allow paragraphs
-          Gender diagnosis techniques in prehatching chickens
+          - Gender diagnosis techniques in prehatching chickens through the image preprocessing for A.I.
+          - 5 years protection under the non-disclosure agreement.
 
   - title: Research Achievement
     layout: list
@@ -112,32 +135,12 @@ content:
         # quote: 
         #   In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
         description: | # this will include new lines to allow paragraphs
+          In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
+
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2024-214715)
 
-          In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
 
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: Kyushu Institute of Technology
-        sub_title: M.E. in Creative Informatics
-        caption: Apr. 2024 - Mar. 2026
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-        
-      - layout: left
-        title: Dong-A University
-        sub_title: B.E. in Electronics Engineering
-        caption: Mar. 2018 - Feb. 2024
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
 
   - title: A Little More About Me
     layout: text
