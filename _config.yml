@@ -86,28 +86,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Gender diagnosis techniques in prehatching chickens
 
-  - title: Experience
+  - title: Research Achievement
     layout: list
     content:
       - layout: left
         title: Publication
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          
+          - **J.Jeong** and M.-C., Lee, "[Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain](https://doi.org/10.1109/ACCESS.2025.3563369)", *IEEE Access*, 2025
+
       - layout: left
         title: Conference
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - T.Ono, **J.Jeong**, H.-W. Kim, M.Cho, and M.-C. Lee, "[Kalman filtering optimization in digital holographic microscopy (DHM)](https://doi.org/10.23919/ICCAS63016.2024.10773243)", *ICCAS 2024*
+          - **J.Jeong**, H.-W Kim, M.Cho, and M.-C. Lee, "[A study of noise reduction algorithm using statistical optimization in digital holographic microscopy](https://doi.org/10.1109/JCSSE61278.2024.10613728)", **JCSSE 2024**
 
       - layout: left
         title: Patents
