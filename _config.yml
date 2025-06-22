@@ -55,13 +55,13 @@ about_content: | # this will include new lines to allow paragraphs
   This is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
   My research interests are image processing, computational optics, and medical imaging systems.
 
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -101,18 +101,18 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Kyushu Institute of Technology
-        sub_title: Master of Engineering in Graduate School of Computer Science and Systems Engineering
+        sub_title: M.E. in Creative Informatics
         caption: Apr. 2024 - Mar. 2026
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
         
-      - layout: top-right
+      - layout: left
         title: Dong-A University
-        sub_title: Bachelor of Engineering in Collage of Engineering
+        sub_title: B.E. in Electronics Engineering
         caption: Mar. 2018 - Feb. 2024
         quote: >
           Short institution or course description (optional)
