@@ -34,10 +34,10 @@ orcid_username: 0009-0003-5434-1601
 googlescholar_username: Jongpil Jeong
 
 # Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Blog
+  icon: fab fa-github
+  url: https://jongpil0911.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,7 +52,7 @@ googlescholar_username: Jongpil Jeong
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/img.jpeg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  This is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
+  Hi, My name is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
   My research interests are image processing, computational optics, and medical imaging systems.
 # If you want to contact me, please followe:
 # - E-mail
@@ -113,8 +113,8 @@ content:
         # quote: >
         #   5 years protection under non-disclosure agreement.
         description: | # this will include new lines to allow paragraphs
-          Gender diagnosis techniques in prehatching chickens through the image preprocessing for A.I.
-          5 years protection under the non-disclosure agreement.
+          Gender diagnosis techniques in prehatching chickens through the image preprocessing for A.I.<br/>
+          5 years protection under the non-disclosure agreement. 
 
   - title: Research Achievement
     layout: list
