@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Jongpil Jeong
 title: Student
-email: Your email (optional)
+email: jeong.jongpil383@mail.kyutech.jp // jeongjongpil0911@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +82-10-8912-3304
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -20,12 +20,12 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Jongpil0911
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jekyll
+instagram_username: jjing_e.0220
 linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -34,10 +34,10 @@ orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
