@@ -70,7 +70,7 @@ content:
       - layout: left
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Gender diagnosis techniques in prehatching chickens
+        title: Industry-academic joint research
         caption: Mar. 2024 - Nov. 2024
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
@@ -81,16 +81,16 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-        #   Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           5 years protection under non-disclosure agreement.
+        description: | # this will include new lines to allow paragraphs
+          Gender diagnosis techniques in prehatching chickens
 
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
+      - layout: left
+        title: Publication
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
@@ -98,7 +98,27 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  
+          
+      - layout: left
+        title: Conference
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+      - layout: left
+        title: Patents
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
   - title: Education
     layout: list
     content:
