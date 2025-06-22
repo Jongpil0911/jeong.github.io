@@ -103,11 +103,11 @@ content:
           - K. Nakamura, **J. Jeong**, M. Cho, and M.-C. Lee, “Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for Improve Noise Reduction,” $40^{th}$ *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted)
           - S. Kim, **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced double random phase encryption for simultaneous two primary data,” $40^{th}$ *International Technical Conference on Circuits/Systems, Computers and Communications*, Seoul, Korea, Jul, 2025 (Accepted)
           - T.Ono, **J.Jeong**, H.-W. Kim, M.Cho, and M.-C. Lee, "[Kalman filtering optimization in digital holographic microscopy (DHM)](https://doi.org/10.23919/ICCAS63016.2024.10773243)", $24^{th}$ *International Conference on Control, Automation and Systems*, Jeju, Korea, Oct. 2024
-          - **J.Jeong**, H.-W Kim, M.Cho, and M.-C. Lee, "[A study of noise reduction algorithm using statistical optimization in digital holographic microscopy](https://doi.org/10.1109/JCSSE61278.2024.10613728)", $21^{st}$ *International Joint Conference on Computer Science adn Software Engineering*, Phuket, Thailand, Jun. 2024
+          - **J.Jeong**, H.-W Kim, M.Cho, and M.-C. Lee, "[A study of noise reduction algorithm using statistical optimization in digital holographic microscopy](https://doi.org/10.1109/JCSSE61278.2024.10613728)", *$21^{st}$ International Joint Conference on Computer Science adn Software Engineering*, Phuket, Thailand, Jun. 2024
 
       - layout: left
         title: Patents
-        quote: >
+        quote: 
           In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
         description: | # this will include new lines to allow paragraphs
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
