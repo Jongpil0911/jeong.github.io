@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jongpil Jeong
-title: Student
+title: Master Student
 email: jeong.jongpil383@mail.kyutech.jp
 # email_title: Email (Email title override)
 phone: +82-10-8912-3304
@@ -54,6 +54,13 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   This is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
   My research interests are image processing, computational optics, and medical imaging systems.
+  If you want to contact me, please followe:
+  - E-mail
+    - jeong.jongpil383@mail.kyutech.jp
+    - jeongjongpil0911@gmail.com
+  - Phone
+    - +81-90-7269-3467
+    - +82-10-8912-3304
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -145,9 +152,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    If you want to know what i do, please follow this [link](https://jongpil0911.github.io)
+# This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
