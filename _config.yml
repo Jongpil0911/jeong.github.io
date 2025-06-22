@@ -50,7 +50,7 @@ googlescholar_username: Jongpil Jeong
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ./img.jpeg
+about_profile_image: images/img.jpeg
 about_content: | # this will include new lines to allow paragraphs
   This is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
   My research interests are image processing, computational optics, and medical imaging systems.
