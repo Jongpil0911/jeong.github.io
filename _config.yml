@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jongpil Jeong
 title: Student
-email: jeong.jongpil383@mail.kyutech.jp // jeongjongpil0911@gmail.com
+email: jeong.jongpil383@mail.kyutech.jp
 # email_title: Email (Email title override)
 phone: +82-10-8912-3304
 # phone_title: Phone (Phone title override)
@@ -26,12 +26,12 @@ github_username:  Jongpil0911
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jjing_e.0220
-linkedin_username: jekyll
+linkedin_username: Jongpil Jeong
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+orcid_username: 0009-0003-5434-1601
+googlescholar_username: Jongpil Jeong
 
 # Additional icon links
 # additional_links:
