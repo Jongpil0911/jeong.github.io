@@ -90,11 +90,13 @@ content:
     layout: list
     content:
       - layout: left
+        border: weak
         title: Publication
         description: | # this will include new lines to allow paragraphs
           - **J.Jeong** and M.-C., Lee, "[Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain](https://doi.org/10.1109/ACCESS.2025.3563369)", *IEEE Access*, 2025
 
       - layout: left
+        border: weak
         title: Conference
         description: | # this will include new lines to allow paragraphs
           - **J. Jeong**, M. Cho, and M.-C. Lee, “Advanced scattering media removal by modified ARMS and restoration of color information,” 18th *International Conference on Machine Vision*, Paris, France, Oct. 2025 (Accepted) (SPIE)
@@ -107,8 +109,8 @@ content:
 
       - layout: left
         title: Patents
-        quote: 
-          In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
+        # quote: 
+        #   In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
         description: | # this will include new lines to allow paragraphs
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
           - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2024-214715)
