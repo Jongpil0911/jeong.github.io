@@ -152,7 +152,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-    If you want to know what i do, please follow this [link](https://jongpil0911.github.io)
+# If you want to know what i do, please follow this [link](https://jongpil0911.github.io)
 # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
