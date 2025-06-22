@@ -85,7 +85,7 @@ content:
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-          
+
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -137,8 +137,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           In accordance with Japanese patent law, these applications are kept confidential and are not publicly disclaosed for 18 months following their filling.
 
-          - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
-          - M.-C. Lee and J. Jeong, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2024-214715)
+          - M.-C. Lee and **J. Jeong**, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2025-097331)
+          - M.-C. Lee and **J. Jeong**, “画像処理装置、画像処理方法および画像処理プログラム,” Japanse Patent (特願 2024-214715)
 
 
 
