@@ -68,40 +68,42 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        title: Gender diagnosis techniques in prehatching chickens
+        caption: Mar. 2024 - Nov. 2024
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          5 years protection under non-disclosure agreement.
 
-  # - title: Experience
-  #   layout: list
-  #   content:
-  #     - layout: right
-  #       title: Company name
-  #       sub_title: Job title
-  #       caption: Date Range (eg. November 2016 - present)
-  #       link: Link to company (optional)
-  #       quote: >
-  #         Short description of the company (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of role
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   
   - title: Education
     layout: list
     content:
       - layout: left
+        border: weak
         title: Kyushu Institute of Technology
         sub_title: M.E. in Creative Informatics
         caption: Apr. 2024 - Mar. 2026
