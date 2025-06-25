@@ -55,7 +55,7 @@ googlescholar_username: Jongpil Jeong
 about_profile_image: images/img.jpeg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Jongpil Jeong, and I am currently the Master's student in the Department of Creative Informatics at Kyushu Instiute of Technology in Japan.
-  My research interests are **image processing, statistical optics, dehaze algorithm, 3D compuational imaging, and medical imaging systems**.
+  My research interests are **Image processing**, **Statistical optics**, **Dehaze algorithm**, **3D compuational imaging**, and **Medical imaging systems**.
 # If you want to contact me, please followe:
 # - E-mail
 #   - jeong.jongpil383@mail.kyutech.jp
