@@ -84,12 +84,6 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Currently, I research about the deblurring algorithm, low-light enhancement, algorithm optimization, and digital holographic microscopy(DHM).
-          At the 3D Optical Imaging Systems Lab, I have a lot of oppertunities to handle the many kinds of image processing methods.
-          My noticeable paper is "Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain", which is published at IEEE Access.
-          Based on this method, we apply for a patent at Japanese Patent Office.
-          Moreovr, I have a lot of interest about the biomedical imaging systems, such as digital holographic microscopy, and published the confereces.
-
           Currently, I am researching deblurring algorithms, low-light enhancement, algorithm optimization, and digital holographic microscopy (DHM). 
           At the [3D Optical Imaging Systems Lab](https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/), I have had numerous opportunities to work with various image processing methods under the guidance of my advisor, [Prof. Min-Chul Lee](https://scholar.google.com/citations?user=9sv1-5QAAAAJ&hl=en&oi=ao). 
           My notable paper, “Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain,” was published in IEEE Access. 
