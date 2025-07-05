@@ -83,8 +83,12 @@ content:
         caption: Apr. 2024 - Mar. 2026
         # GPA: 3.12 / 4.00
         # [Transcript](https://github.com/user-attachments/files/21074341/Bachelor.transcript.pdf)
-        # quote: >
-        #   Short institution or course description (optional)
+        quote: >
+# Short institution or course description (optional)
+          - Graduate School of Computer Science and Systems Engineering
+          - Department of Creative Informatics
+          - 3D Optical Imaging Systems Lab
+      
         description: | # this will include new lines to allow paragraphs
           Currently, I am researching deblurring algorithms, low-light enhancement, algorithm optimization, and digital holographic microscopy (DHM). 
           At the [3D Optical Imaging Systems Lab](https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/), I have had numerous opportunities to work with various image processing methods under the guidance of my advisor, [Prof. Min-Chul Lee](https://scholar.google.com/citations?user=9sv1-5QAAAAJ&hl=en&oi=ao). 
@@ -97,8 +101,11 @@ content:
         title: Dong-A University
         sub_title: B.E. in Electronics Engineering
         caption: Mar. 2018 - Feb. 2024
-        # quote: >
-        #   Short institution or course description (optional)
+        quote: >
+        - Collage of Engineering 
+        - Department of Electronics Engineering
+
+      #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           I have a strong interest in image and signal processing. 
           Consequently, I participated as a research student at [SoC Design Lab](https://soc.donga.ac.kr/soc/Main.do).
