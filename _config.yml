@@ -137,7 +137,7 @@ content:
           Gender diagnosis techniques in prehatching chickens through the image preprocessing for A.I.<br/>
           5 years protection under the non-disclosure agreement. 
 
-  - title: Research Achievement
+  # - title: Research Achievement
     layout: list
     content:
       - layout: left
