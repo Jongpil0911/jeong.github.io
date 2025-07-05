@@ -83,8 +83,8 @@ content:
         caption: Apr. 2024 - Mar. 2026
         # quote: >
         #   Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
         
       - layout: left
         title: Dong-A University
@@ -92,8 +92,8 @@ content:
         caption: Mar. 2018 - Feb. 2024
         # quote: >
         #   Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
 
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
