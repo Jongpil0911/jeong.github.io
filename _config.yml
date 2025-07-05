@@ -83,8 +83,19 @@ content:
         caption: Apr. 2024 - Mar. 2026
         # quote: >
         #   Short institution or course description (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
+        description: | # this will include new lines to allow paragraphs
+          Currently, I research about the deblurring algorithm, low-light enhancement, algorithm optimization, and digital holographic microscopy(DHM).
+          At the 3D Optical Imaging Systems Lab, I have a lot of oppertunities to handle the many kinds of image processing methods.
+          My noticeable paper is "Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain", which is published at IEEE Access.
+          Based on this method, we apply for a patent at Japanese Patent Office.
+          Moreovr, I have a lot of interest about the biomedical imaging systems, such as digital holographic microscopy, and published the confereces.
+
+          Currently, I am researching deblurring algorithms, low-light enhancement, algorithm optimization, and digital holographic microscopy (DHM). 
+          At the [3D Optical Imaging Systems Lab](https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/), I have had numerous opportunities to work with various image processing methods under the guidance of my advisor, [Prof. Min-Chul Lee](https://scholar.google.com/citations?user=9sv1-5QAAAAJ&hl=en&oi=ao). 
+          My notable paper, “Scattering Medium Removal Using Adaptive Masks for Scatter in Spatial Frequency Domain,” was published in IEEE Access. 
+          Based on this method, we have applied for a patent at the Japanese Patent Office. 
+          Furthermore, I am highly interested in biomedical imaging systems, such as digital holographic microscopy, and I have published several conference papers in this area.
+
         
       - layout: left
         title: Dong-A University
@@ -92,8 +103,13 @@ content:
         caption: Mar. 2018 - Feb. 2024
         # quote: >
         #   Short institution or course description (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
+        description: | # this will include new lines to allow paragraphs
+          I have a strong interest in image and signal processing. 
+          Consequently, I participated as a research student at [SoC Design Lab](https://soc.donga.ac.kr/soc/Main.do).
+          At the lab, I received training in fundamental image processing methods and various programming languages, including MATLAB, C/C++, Python, and Verilog. 
+          My advisor, Prof. Bongsoon Kang, provided significant inspiration regarding research and future plans. 
+          Through this experience, I gained a broader perspective of the world and the opportunity to pursue a master's course in Japan.
+
 
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
