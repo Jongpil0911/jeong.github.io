@@ -83,11 +83,11 @@ content:
         caption: Apr. 2024 - Mar. 2026
         # GPA: 3.12 / 4.00
         # [Transcript](https://github.com/user-attachments/files/21074341/Bachelor.transcript.pdf)
-        quote: >
-# Short institution or course description (optional)
-          - Graduate School of Computer Science and Systems Engineering
-          - Department of Creative Informatics
-          - 3D Optical Imaging Systems Lab
+#         quote: >
+# # Short institution or course description (optional)
+#           - Graduate School of Computer Science and Systems Engineering
+#           - Department of Creative Informatics
+#           - 3D Optical Imaging Systems Lab
       
         description: | # this will include new lines to allow paragraphs
           Currently, I am researching deblurring algorithms, low-light enhancement, algorithm optimization, and digital holographic microscopy (DHM). 
@@ -101,9 +101,9 @@ content:
         title: Dong-A University
         sub_title: B.E. in Electronics Engineering
         caption: Mar. 2018 - Feb. 2024
-        quote: >
-        - Collage of Engineering 
-        - Department of Electronics Engineering
+        # quote: >
+        # - Collage of Engineering 
+        # - Department of Electronics Engineering
 
       #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
